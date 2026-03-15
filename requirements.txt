@@ -1,0 +1,6 @@
+aiogram>=3.0,<4.0
+pyrogram
+tgcrypto
+openai-whisper
+python-dotenv
+soundfile
